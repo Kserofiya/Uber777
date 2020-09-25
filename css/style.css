@@ -11,6 +11,9 @@ nav {
     width: 100%;
     z-index: 10;
 }
+section {
+    width: 100%   
+}
 .menu {
     display: flex;
     justify-content: space-between;
